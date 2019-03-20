@@ -33,7 +33,7 @@
               <i class="fas fa-bars"></i>
               <!--Supprimer la fleche avec css-->
             </a>
-            <img src="app/src/img/logo_esd.ext__1.png" alt="">
+            <img class="logo" src="app/src/img/logo_esd.ext__1.png" alt="">
             <button><i class="fas fa-medal"></i></button>
 
 
@@ -68,7 +68,7 @@
         <div class="carousel-item active">
           <img src="app/src/img/background.gif" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-              <button type="button" class="btn btn-primary">Primary</button>
+              <button type="button" class="btn btn-primary">Prim ary</button>
             <h2>Tempest Game</h2>
             <p>by DERIT Nicolas</p>
           </div>
